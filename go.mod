@@ -1,4 +1,4 @@
-module modrinth
+module github.com/evilenzo/modrinth
 
 go 1.24.5
 
